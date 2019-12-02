@@ -4,7 +4,7 @@ package com.example;
  * This is a class.
  */
 public class Greeter {
-  public Long MAGICO = new Long("2333");
+  public Long magico = new Long("2333");
 
   /**
    * This is a constructor.
